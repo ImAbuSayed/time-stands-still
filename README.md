@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/time-stands-still/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Time Stands Still](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/time-stands-still/) |
+| **Get License** | [Commercial Licensing for Time Stands Still](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/time-stands-still/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the rhythm of your breathing slow
+> There is a magic in the midnight glow
+> This is the moment that I need the most
+> Pulling you closer, making time our ghost
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
